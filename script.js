@@ -1,5 +1,5 @@
 const byteSize = (str) => {
-  const str1=str.length;
+  const str1=str.length.trim();
 	return str1;
 	};
 
